@@ -70,11 +70,3 @@ ML_Semester_Project/
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
-
-## 👥 Contributors
-
-Add the names of your group members here.
-
-## 📌 Note
-
-This repository is maintained for academic purposes as part of the Machine Learning course. Content will be updated throughout the semester as assignments and the final project progress.
